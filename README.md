@@ -1,4 +1,12 @@
-### Hi there 👋
+## I am `Hoyoung Moon`
+
+### Skill Stack
+
+- Javascript, ES6
+- React, React Native
+- Node.js, Express, Sequelize
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoyoungmoon&show_icons=true" alt="hoyoungmoon" /></p>
 
 <!--
 **hoyoungmoon/hoyoungmoon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
