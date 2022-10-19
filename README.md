@@ -1,10 +1,15 @@
 ## I am `Hoyoung Moon`
 
+- 🔭 I’m currently working on `Fanding` as a React Native developer 
+- 🌱 I’m currently learning Swift
+
 ### Skill Stack
 
-- Javascript, ES6
+- JavaScript, TypeScript ES6
 - React, React Native
 - Node.js, Express, Sequelize
+
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hoyoungmoon&show_icons=true&theme=dark" alt="hoyoungmoon" /></p>
 
